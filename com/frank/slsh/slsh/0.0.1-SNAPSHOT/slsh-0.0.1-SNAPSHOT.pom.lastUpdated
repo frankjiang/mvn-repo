@@ -1,0 +1,8 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Nov 25 14:02:25 CST 2015
+default-https\://raw.github.com/frankjiang/math4j/mvn-repo/.lastUpdated=1448431345263
+default-https\://raw.github.com/frankjiang/System-Utilities/mvn-repo/.lastUpdated=1448431345264
+https\://raw.github.com/frankjiang/math4j/mvn-repo/.error=Could not transfer artifact com.frank.slsh\:slsh\:pom\:0.0.1-SNAPSHOT from/to math4j-mvn-repo (https\://raw.github.com/frankjiang/math4j/mvn-repo/)\: The operation was cancelled.
+https\://raw.github.com/frankjiang/System-Utilities/mvn-repo/.error=Could not transfer artifact com.frank.slsh\:slsh\:pom\:0.0.1-SNAPSHOT from/to System-Utilities-mvn-repo (https\://raw.github.com/frankjiang/System-Utilities/mvn-repo/)\: The operation was cancelled.
+https\://raw.github.com/frankjiang/dip4j/mvn-repo/.error=Could not transfer artifact com.frank.slsh\:slsh\:pom\:0.0.1-SNAPSHOT from/to dip4j-mvn-repo (https\://raw.github.com/frankjiang/dip4j/mvn-repo/)\: The operation was cancelled.
+default-https\://raw.github.com/frankjiang/dip4j/mvn-repo/.lastUpdated=1448431345266

@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Oct 28 12:02:13 CST 2015
+dip4j-1.0.jar>=
+dip4j-1.0.pom>=
+dip4j-1.0-sources.jar>=
